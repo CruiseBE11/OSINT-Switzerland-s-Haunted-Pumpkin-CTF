@@ -1,4 +1,4 @@
-# Ghost Ship
+# Ghost Ship (268 Solves) (100 Points)
 
 ## Challenge
 
