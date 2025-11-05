@@ -1,4 +1,4 @@
-#Introduction (486 Solves) (1 Point)
+# Introduction (486 Solves) (1 Point)
 
 This challenge laid out the rules, regulations, and help desk for the entirety of the competition. Remember not to contact anyone who is mentioned during the walkthroughs of this competition! 
 While the competition is completed, the Discors link is still active to join OSINT Switzerland's Disord. Please join to stay up to date on their upcoming CTFs. <br>
